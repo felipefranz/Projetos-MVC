@@ -1,0 +1,9 @@
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Repository\obj\Debug\App.Repository.csprojAssemblyReference.cache
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Repository\obj\Debug\App.Repository.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Repository\bin\Debug\App.Repository.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Repository\bin\Debug\App.Repository.pdb
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Repository\bin\Debug\App.Domain.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Repository\bin\Debug\App.Domain.pdb
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Repository\obj\Debug\App.Repository.csproj.CopyComplete
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Repository\obj\Debug\App.Repository.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Repository\obj\Debug\App.Repository.pdb

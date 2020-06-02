@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{F4515A56-4228-4146-9DF1-7827BD22DE07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Repository", "App.Repository\App.Repository.csproj", "{521C6F4C-EBCF-493C-AC29-B68008D612AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Domain", "App.Domain\App.Domain.csproj", "{9C2267E6-0079-45BB-B6CC-52F77044EB3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4515A56-4228-4146-9DF1-7827BD22DE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4515A56-4228-4146-9DF1-7827BD22DE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4515A56-4228-4146-9DF1-7827BD22DE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4515A56-4228-4146-9DF1-7827BD22DE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521C6F4C-EBCF-493C-AC29-B68008D612AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521C6F4C-EBCF-493C-AC29-B68008D612AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521C6F4C-EBCF-493C-AC29-B68008D612AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521C6F4C-EBCF-493C-AC29-B68008D612AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2267E6-0079-45BB-B6CC-52F77044EB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2267E6-0079-45BB-B6CC-52F77044EB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2267E6-0079-45BB-B6CC-52F77044EB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2267E6-0079-45BB-B6CC-52F77044EB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C5AA60C-B91C-4194-93EB-B28D14A238FD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,139 @@
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\csc.exe
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\vbc.exe
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\VBCSCompiler.exe
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Area.dll.config
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Area.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Area.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Antlr3.Runtime.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\EntityFramework.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\EntityFramework.SqlServer.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Newtonsoft.Json.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Owin.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.Helpers.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.Mvc.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.Optimization.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.Razor.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.WebPages.Deployment.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.WebPages.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.WebPages.Razor.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\WebGrease.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.Helpers.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.Mvc.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.Optimization.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.Razor.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.WebPages.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.WebPages.Deployment.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\System.Web.WebPages.Razor.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Antlr3.Runtime.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Newtonsoft.Json.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\EntityFramework.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\EntityFramework.SqlServer.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\obj\Debug\Area.dll
+c:\users\hugo\documents\visual studio 2015\Projects\Area\Area\obj\Debug\Area.pdb
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\csc.exe
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\System.Collections.Immutable.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\vbc.exe
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\VBCSCompiler.exe
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\roslyn\VBCSCompiler.exe.config
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Area.dll.config
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Area.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Area.pdb
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Antlr3.Runtime.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\EntityFramework.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\EntityFramework.SqlServer.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.Google.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Web.Infrastructure.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Newtonsoft.Json.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Owin.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.Helpers.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.Mvc.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.Optimization.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.Razor.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.WebPages.Deployment.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.WebPages.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.WebPages.Razor.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\WebGrease.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.Helpers.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.Mvc.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.Optimization.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.Razor.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.WebPages.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.WebPages.Deployment.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\System.Web.WebPages.Razor.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Antlr3.Runtime.pdb
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Newtonsoft.Json.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\EntityFramework.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\EntityFramework.SqlServer.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.Google.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\obj\Debug\Area.csproj.CopyComplete
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\obj\Debug\Area.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Arquivos ASP NET MVC\1 - MVC 5 com ASP .NET\Area\Area\obj\Debug\Area.pdb

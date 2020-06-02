@@ -1,0 +1,9 @@
+public bool RescreverArquivo(List<Aluno> listaAlunos)
+        {
+            var caminhoArquivo = HostingEnvironment.MapPath(@"~/App_Data/Base.json");
+
+            var json = JsonConvert.SerializeObject(listaAlunos, Formatting.Indented);
+            File.WriteAllText(caminhoArquivo, json);
+
+            return true;
+        }

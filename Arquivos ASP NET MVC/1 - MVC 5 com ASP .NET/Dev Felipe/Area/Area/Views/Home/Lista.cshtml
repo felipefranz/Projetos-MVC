@@ -1,0 +1,54 @@
+﻿@model Area.Models.Pessoa
+
+@{
+    ViewBag.Title = "Lista";
+}
+
+<h2>Lista</h2>
+<!-- Modelo 1 -->
+<div>
+    <!-- Modelo 1 -->
+    <!-- <b>Pessoa Id</b> -->
+    <!-- Modelo 2 -->
+    <b>@Html.LabelFor(x => x.PessoaId)</b>
+</div>
+<div>
+    @Model.PessoaId
+</div>
+<div>
+    <b>@Html.LabelFor(x => x.Nome)</b>
+</div>
+<div>
+    @Model.Nome
+</div>
+<div>
+    <b>@Html.LabelFor(x => x.Tipo)</b>
+</div>
+<div>
+    @Model.Tipo
+</div>
+
+@Html.ActionLink("Voltar", "Index", "Home")
+
+<!-- modelo 2
+<div>
+    <b>Pessoa Id</b>
+</div>
+<div>
+    @ViewData["PessoaId"]
+</div>
+<div>
+    <b>Nome</b>
+</div>
+<div>
+    @ViewData["Nome"]
+</div>
+<div>
+    <b>Tipo</b>
+</div>
+<div>
+    @ViewData["Tipo"]
+</div>
+
+<a href="~/"> Voltar</a>
+    -->

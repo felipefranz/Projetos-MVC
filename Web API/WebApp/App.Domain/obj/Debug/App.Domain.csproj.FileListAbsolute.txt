@@ -1,0 +1,6 @@
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Domain\bin\Debug\App.Domain.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Domain\bin\Debug\App.Domain.pdb
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csprojAssemblyReference.cache
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Domain\obj\Debug\App.Domain.dll
+C:\Desenvolvimento_Sistemas\Projetos MVC\Web API\WebApp\App.Domain\obj\Debug\App.Domain.pdb
